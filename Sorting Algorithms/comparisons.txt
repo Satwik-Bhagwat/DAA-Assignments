@@ -1,0 +1,124 @@
+			Size and Comparisons
+100000 elements
+	quick sort : 1958977
+	merge sort : 1536474
+	bubble sort : 4999842120
+	selection sort : 4999950000
+	
+150000 elements
+	quick sort : 3065186
+	merge sort : 2392095
+	bubble sort : 11249780009
+	selection sort : 11249925000
+	
+200000 elements
+	quick sort : 4321719
+	merge sort : 3272572
+	bubble sort : 19999716079
+	selection sort : 19999900000
+	
+250000 elements
+	quick sort : 5431575
+	merge sort : 4168209
+	bubble sort : 31249752735
+	selection sort : 31249875000
+	
+300000 elements
+	quick sort : 6551702
+	merge sort : 5084666
+	bubble sort : 44999571369
+	selection sort : 44999850000
+	
+350000 elements
+	quick sort : 8047563
+	merge sort : 6012698
+	bubble sort : 61249264789
+	selection sort : 61249825000
+	
+400000 elements
+	quick sort : 9292609
+	merge sort : 6945242
+	bubble sort : 79998859494
+	selection sort : 79999800000
+	
+450000 elements
+	quick sort : 10655322
+	merge sort : 7888749
+	bubble sort : 101249757234
+	selection sort : 101249775000
+	
+500000 elements
+	quick sort : 11835724
+	merge sort : 8836826
+	bubble sort : 124998806749
+	selection sort : 124999750000
+	
+550000 elements
+	quick sort : 12684445
+	merge sort : 9797310
+	bubble sort : 151249695110
+	selection sort : 151249725000
+	
+600000 elements
+	quick sort : 13929642
+	merge sort : 10768800
+	bubble sort : 179998700241
+	selection sort : 179999700000
+	
+	
+650000 elements
+	quick sort : 16038726
+	merge sort : 11744350
+	bubble sort : 211247856024
+	selection sort : 211249675000
+	
+	
+700000 elements
+	quick sort : 16613174
+	merge sort : 12723040
+	bubble sort : 244989730805
+	selection sort : 244999650000
+	
+	
+750000 elements
+	quick sort : 17970906
+	merge sort : 13705873
+	bubble sort : 281248954089
+	selection sort : 281249625000
+	
+	
+800000 elements
+	quick sort : 20339616
+	merge sort : 14690359
+	bubble sort : 319998978067
+	selection sort : 319999600000
+	
+	
+850000 elements
+	quick sort : 20495218
+	merge sort : 15684657
+	bubble sort : 361249567340
+	selection sort : 361249575000
+	
+	
+900000 elements
+	quick sort : 22343475
+	merge sort : 16679270
+	bubble sort : 404998965732
+	selection sort : 404999550000
+	
+	
+950000 elements
+	quick sort : 22577404
+	merge sort : 17675810
+	bubble sort : 451246738974
+	selection sort : 451249525000
+	
+	
+1000000 elements
+	quick sort : 24283170
+	merge sort : 18674451
+	bubble sort : 499998786542
+	selection sort : 499999500000		
+			
+			

@@ -1,0 +1,124 @@
+			Size and Execution time
+100000 elements
+	quick sort : 0.016430
+	merge sort : 0.018308
+	bubble sort : 30.643359
+	selection sort : 11.636625
+	
+150000 elements
+	quick sort : 0.024565
+	merge sort : 0.028191
+	bubble sort : 69.906785
+	selection sort : 25.680025
+	
+200000 elements
+	quick sort : 0.033944
+	merge sort : 0.038004
+	bubble sort : 125.187252
+	selection sort : 45.772942
+	
+250000 elements
+	quick sort : 0.042148
+	merge sort : 0.048103
+	bubble sort : 195.376575
+	selection sort : 71.699651
+	
+300000 elements
+	quick sort : 0.051597
+	merge sort : 0.060462
+	bubble sort : 297.589836
+	selection sort : 103.311597
+	
+350000 elements
+	quick sort : 0.062390
+	merge sort : 0.070229
+	bubble sort : 379.892960
+	selection sort : 140.319758
+	
+400000 elements
+	quick sort : 0.074313
+	merge sort : 0.079987
+	bubble sort : 498.017124
+	selection sort : 184.009320
+	
+450000 elements
+	quick sort : 0.080123
+	merge sort : 0.091346
+	bubble sort : 632.091511
+	selection sort : 233.551407
+	
+500000 elements
+	quick sort : 0.090081
+	merge sort : 0.102180
+	bubble sort : 781.243908
+	selection sort : 289.343380
+	
+550000 elements
+	quick sort : 0.099316
+	merge sort : 0.113038
+	bubble sort : 938.836715
+	selection sort : 349.680320
+	
+600000 elements
+	quick sort : 0.108572
+	merge sort : 0.126734
+	bubble sort : 1123.356436
+	selection sort : 423.3163491
+	
+	
+650000 elements
+	quick sort : 0.122565
+	merge sort : 0.135550
+	bubble sort : 1319.528659
+	selection sort : 487.884202
+	
+	
+700000 elements
+	quick sort : 0.128744
+	merge sort : 0.148935
+	bubble sort : 1530.530162
+	selection sort : 561.13252
+	
+	
+750000 elements
+	quick sort : 0.139464
+	merge sort : 0.157224
+	bubble sort : 1762.846568
+	selection sort : 642.4457209
+	
+	
+800000 elements
+	quick sort : 0.153524
+	merge sort : 0.167771
+	bubble sort : 2001.459865
+	selection sort : 731.6238884
+	
+	
+850000 elements
+	quick sort : 0.158614
+	merge sort : 0.180146
+	bubble sort : 2279.967327
+	selection sort : 819.606743
+	
+	
+900000 elements
+	quick sort : 0.170638
+	merge sort : 0.190728
+	bubble sort : 2538.462973
+	selection sort : 920.5221231
+	
+	
+950000 elements
+	quick sort : 0.182570
+	merge sort : 0.203445
+	bubble sort : 2833.763478
+	selection sort : 1023.398762
+	
+	
+1000000 elements
+	quick sort : 0.185304
+	merge sort : 0.212456
+	bubble sort : 3148.793412
+	selection sort : 1130.461537
+	
+	
